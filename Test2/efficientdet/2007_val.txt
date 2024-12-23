@@ -1,0 +1,897 @@
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004308.jpg 50,129,294,400,7 1,61,118,329,19 172,47,500,398,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000393.jpg 235,51,309,222,14 157,106,426,294,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005228.jpg 295,96,500,219,7 26,81,195,198,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008056.jpg 206,161,240,200,8 235,160,268,201,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008491.jpg 259,187,329,238,11 128,135,175,277,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004240.jpg 66,373,274,457,6 276,388,333,446,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004268.jpg 149,130,192,291,4 191,104,206,135,14 208,96,228,137,14 192,154,209,189,14 206,145,230,189,14 192,206,213,239,14 193,255,217,293,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001477.jpg 196,84,458,287,16 93,172,227,312,16 37,202,208,338,16 13,1,77,84,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009017.jpg 182,29,458,373,14 142,32,311,252,14 90,66,206,243,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008889.jpg 93,89,342,332,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000231.jpg 87,110,278,206,5 337,124,366,227,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008686.jpg 139,57,233,137,19 347,3,500,160,14 241,159,295,316,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002397.jpg 139,199,202,341,14 136,247,202,378,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003670.jpg 54,99,369,278,13 155,68,299,264,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002552.jpg 102,241,170,348,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004123.jpg 132,1,358,275,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004862.jpg 1,358,50,500,8 232,366,260,393,15 227,295,269,351,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005017.jpg 352,217,386,276,9 111,220,141,257,14 139,221,167,259,14 185,220,213,262,14 166,217,191,256,14 92,198,107,244,14 206,208,220,241,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008255.jpg 41,224,214,422,1 49,117,188,339,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007158.jpg 36,92,375,500,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000151.jpg 153,136,375,264,4 4,49,375,440,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001267.jpg 318,200,500,296,6 106,207,140,256,14 238,189,270,261,14 125,205,178,242,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009149.jpg 193,93,496,326,6 385,133,422,167,14 305,128,344,162,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007602.jpg 1,1,376,176,9 209,3,470,140,9 44,110,500,360,9 264,138,500,375,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001924.jpg 90,109,444,264,6 396,97,500,259,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006087.jpg 1,1,257,337,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007399.jpg 47,95,475,332,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005565.jpg 119,255,206,337,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008055.jpg 319,142,336,158,0 295,149,312,163,0 305,126,324,142,0 320,69,337,85,0 308,90,327,105,0 298,112,314,125,0 274,118,291,132,0 249,119,266,132,0 261,138,280,152,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005571.jpg 22,74,454,311,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000596.jpg 71,288,111,315,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004096.jpg 1,1,497,268,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002430.jpg 79,28,361,375,7 1,1,466,190,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002418.jpg 1,149,260,209,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007945.jpg 89,113,422,283,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001449.jpg 322,81,422,203,18 23,87,164,221,18 197,86,288,213,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004243.jpg 1,174,106,308,13 85,164,213,291,13 174,163,263,261,13 235,156,334,244,13 305,136,402,230,13 372,161,426,215,13 456,132,500,181,13 423,132,465,196,13 47,117,91,244,14 454,114,472,146,14 405,120,425,155,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003277.jpg 1,104,348,375,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005174.jpg 349,186,500,375,8 3,128,471,375,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003263.jpg 1,267,155,499,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005835.jpg 5,231,199,333,11 202,219,443,333,11 379,42,464,310,14 250,41,355,220,14 73,49,166,306,14 1,1,479,207,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003075.jpg 145,48,328,500,14 66,5,182,356,14 4,132,167,486,1 248,143,389,500,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004040.jpg 51,234,138,356,8 139,212,195,298,8 198,188,333,311,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003049.jpg 249,241,361,375,8 171,251,304,375,8 55,227,160,354,8 43,220,125,301,8 2,199,63,269,8 153,173,250,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002394.jpg 150,214,281,369,19 71,35,108,65,14 32,31,50,105,14 4,31,27,105,14 15,29,33,105,14 92,147,117,172,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003101.jpg 292,1,500,253,5 197,59,263,209,5 1,2,211,295,5 257,170,289,188,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003883.jpg 101,56,382,292,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003840.jpg 44,29,375,493,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003317.jpg 1,73,302,372,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004336.jpg 66,45,259,375,14 247,48,496,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002753.jpg 368,206,475,319,8 100,219,230,365,8 249,162,317,252,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005955.jpg 13,2,500,333,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002790.jpg 107,86,301,500,12 57,256,136,317,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008291.jpg 133,1,397,166,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005986.jpg 64,47,424,296,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002743.jpg 450,88,496,216,4 358,114,409,223,15 160,8,444,229,15 122,94,261,223,15 96,216,162,344,4 26,93,189,229,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004871.jpg 67,88,478,361,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006928.jpg 195,1,499,375,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001935.jpg 42,114,500,217,18 370,181,443,214,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005560.jpg 141,160,407,348,1 184,54,296,278,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003893.jpg 27,121,344,282,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000356.jpg 86,116,251,322,14 122,170,218,480,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008681.jpg 266,53,469,332,14 35,156,248,332,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000587.jpg 281,117,444,266,14 209,153,328,269,14 187,168,268,273,14 23,151,212,375,14 348,255,433,375,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003930.jpg 2,2,450,332,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001114.jpg 206,110,401,302,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002409.jpg 89,74,445,366,12 201,35,313,220,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001128.jpg 1,110,301,300,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006121.jpg 38,156,185,223,6 104,149,284,237,6 199,140,450,259,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000975.jpg 111,61,485,462,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003298.jpg 20,19,328,483,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006479.jpg 19,43,488,337,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005617.jpg 199,142,346,270,9 66,71,160,267,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007000.jpg 268,220,362,333,2 97,15,375,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008333.jpg 111,4,364,284,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007766.jpg 192,35,305,188,14 60,101,407,282,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006478.jpg 401,192,471,238,12 330,187,392,234,12 157,178,189,204,12 54,170,93,201,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000960.jpg 93,109,203,252,2 338,109,454,224,2 192,275,356,367,2 75,293,205,370,2 358,315,477,389,2 15,44,139,90,2 10,163,97,270,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008131.jpg 295,41,498,375,14 87,79,252,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008737.jpg 78,1,500,333,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005561.jpg 131,226,340,448,1 192,154,256,422,14 1,1,374,500,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008910.jpg 246,156,284,184,6 172,147,203,159,6 170,156,204,182,6 194,179,231,208,6 199,206,246,241,6 106,144,133,167,6 115,161,147,186,6 111,183,150,214,6 108,215,153,242,6 227,98,249,115,6 202,95,223,109,6 190,86,209,102,6 29,178,73,218,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004870.jpg 159,31,323,310,14 106,78,399,375,13 27,39,143,114,6 404,25,500,119,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006256.jpg 261,76,496,236,6 66,85,403,300,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009818.jpg 314,223,351,254,16 242,181,273,205,16 66,204,91,229,16 15,202,42,222,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007837.jpg 65,96,481,277,0 424,212,500,245,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006526.jpg 168,2,500,331,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001088.jpg 2,1,418,375,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008912.jpg 29,163,269,339,16 343,184,409,239,16 252,169,291,237,16 282,179,322,240,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003853.jpg 292,176,358,245,8 348,129,388,180,8 346,143,492,245,14 2,157,119,245,14 63,127,134,214,14 33,100,73,148,14 256,55,338,183,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004899.jpg 144,1,500,333,3 58,116,257,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004127.jpg 351,186,455,291,4 284,1,500,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007599.jpg 26,139,231,287,9 226,146,387,287,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005359.jpg 1,66,343,415,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006334.jpg 74,170,221,244,5 270,194,350,233,6 282,196,322,236,6 29,200,43,234,14 439,205,468,254,14 467,200,496,280,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006446.jpg 208,2,500,375,14 1,74,114,375,14 204,1,303,64,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001329.jpg 288,229,450,333,1 58,149,82,192,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009012.jpg 114,1,277,499,4 292,27,367,217,4 102,1,375,167,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000022.jpg 68,103,368,283,12 186,44,255,230,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001300.jpg 71,103,255,457,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004734.jpg 52,43,409,234,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001880.jpg 1,9,183,375,15 219,9,432,375,15 247,331,452,375,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000546.jpg 1,138,290,372,11 285,56,479,359,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002386.jpg 26,82,500,265,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005204.jpg 145,134,369,218,6 426,139,500,219,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000368.jpg 50,21,272,482,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008052.jpg 239,74,338,139,6 199,38,242,153,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001923.jpg 1,137,413,317,6 427,116,468,234,14 465,90,489,162,14 415,91,443,173,14 245,106,292,139,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003852.jpg 68,2,500,373,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002580.jpg 134,25,166,143,3 54,215,324,330,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005589.jpg 388,72,458,201,8 327,102,419,252,8 324,50,372,109,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000630.jpg 187,162,483,375,13 266,158,408,298,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005012.jpg 2,277,147,500,11 111,359,201,500,7 190,3,329,498,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003488.jpg 1,272,17,325,15 42,232,92,285,15 97,201,138,247,15 143,153,206,209,15 227,120,268,173,15 274,77,331,136,15 30,235,46,286,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000858.jpg 288,146,404,250,5 71,192,104,293,14 145,195,169,284,14 105,206,119,247,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006540.jpg 147,138,216,329,14 78,187,264,392,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009101.jpg 3,80,193,318,12 3,104,363,318,12 367,131,471,318,12 76,17,175,318,14 228,90,270,132,14 344,81,477,316,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008551.jpg 2,125,105,279,1 2,56,118,172,14 294,128,443,300,14 189,173,467,380,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008974.jpg 178,11,409,375,14 2,142,206,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006193.jpg 1,184,229,337,13 419,116,488,209,13 181,149,363,294,13 270,122,450,242,13 43,55,105,206,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003799.jpg 1,1,167,224,3 24,3,355,500,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001159.jpg 2,240,500,373,17 238,241,314,340,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002336.jpg 3,94,447,286,2 1,180,174,375,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000092.jpg 2,66,413,333,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003558.jpg 214,1,500,256,19 345,277,407,329,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001428.jpg 155,187,436,352,7 243,141,402,225,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008395.jpg 212,59,496,269,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007267.jpg 167,139,204,253,14 367,158,399,177,6 96,86,475,187,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001602.jpg 252,2,351,365,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002451.jpg 1,153,38,375,15 29,254,179,375,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003968.jpg 45,346,500,489,1 48,13,472,483,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008020.jpg 12,202,137,298,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005276.jpg 15,199,77,340,1 66,223,202,313,1 178,213,327,375,1 171,107,287,375,14 2,110,86,322,14 120,115,189,326,14 82,132,135,326,14 468,276,479,311,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006780.jpg 3,54,332,363,8 58,21,296,458,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009672.jpg 416,76,500,206,7 150,114,443,375,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002928.jpg 93,55,373,292,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006580.jpg 375,240,415,283,11 119,235,188,291,11 114,226,178,287,11 92,220,125,273,11 434,195,487,291,14 363,180,380,218,14 318,177,361,293,14 266,178,277,217,14 210,167,277,345,14 171,167,217,262,14 9,159,93,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008591.jpg 3,34,333,500,10 254,2,288,87,4 104,15,133,97,4 107,47,133,114,4 10,171,93,401,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004181.jpg 8,8,500,311,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007463.jpg 219,3,375,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003942.jpg 154,125,271,233,14 17,149,42,237,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008195.jpg 1,78,500,376,13 33,1,282,288,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008630.jpg 100,71,429,333,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002309.jpg 61,43,400,319,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003598.jpg 82,11,280,141,2 55,150,143,361,2 10,266,74,368,2 82,114,290,266,2 160,267,327,370,2 99,34,486,364,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002876.jpg 62,28,396,351,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000708.jpg 351,183,490,369,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001359.jpg 201,53,376,265,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002122.jpg 3,26,298,208,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005301.jpg 53,213,231,461,1 224,224,331,424,1 56,50,233,422,14 229,93,331,326,14 199,72,263,167,14 232,65,283,146,14 286,61,331,105,14 30,73,76,220,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007502.jpg 169,88,263,217,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004751.jpg 55,115,453,215,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000286.jpg 94,218,226,375,14 189,11,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004180.jpg 197,13,272,116,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002297.jpg 292,85,500,213,17 367,166,500,375,8 264,92,291,124,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005711.jpg 135,146,210,194,9 199,166,380,327,9 151,156,330,226,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008221.jpg 2,27,499,375,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007674.jpg 20,79,489,264,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005739.jpg 5,16,456,373,5 297,123,336,187,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008580.jpg 60,129,419,287,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002085.jpg 166,213,245,285,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009885.jpg 1,2,500,375,3 185,157,335,375,14 175,198,209,229,14 44,192,90,229,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004806.jpg 43,195,316,296,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001956.jpg 180,111,488,284,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001003.jpg 111,102,351,254,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006744.jpg 146,124,369,375,14 90,1,500,374,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006022.jpg 175,3,388,500,15 1,1,222,351,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004027.jpg 223,260,280,320,15 178,22,333,401,15 66,38,239,415,15 86,256,201,449,15 1,214,124,417,15 78,365,146,460,15 17,348,71,433,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001407.jpg 425,273,500,374,8 32,246,97,340,8 14,223,65,313,8 227,223,244,267,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007738.jpg 2,1,374,500,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000725.jpg 350,149,387,208,9 256,168,282,213,9 179,160,215,217,9 68,162,115,215,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002654.jpg 121,248,401,374,17 19,246,135,372,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007739.jpg 165,210,222,372,4 4,169,161,395,8 16,101,52,174,8 85,69,373,395,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009728.jpg 215,41,249,183,3 348,246,387,285,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008393.jpg 15,1,238,107,2 41,29,298,358,2 203,82,500,375,2 210,158,500,375,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002457.jpg 266,160,500,278,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003761.jpg 207,215,328,375,8 74,178,197,375,8 148,176,368,375,10 304,147,368,219,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001994.jpg 210,141,420,240,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009338.jpg 84,112,417,331,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004350.jpg 197,114,357,302,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004422.jpg 323,143,415,220,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005099.jpg 2,212,326,482,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000691.jpg 15,78,253,252,8 223,79,467,284,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008554.jpg 204,114,435,196,0 1,165,89,196,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004408.jpg 391,69,500,334,14 99,69,405,333,14 197,30,338,247,14 1,19,91,206,14 100,18,210,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009110.jpg 144,62,293,266,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006237.jpg 58,83,109,175,12 95,33,281,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006182.jpg 90,94,439,274,11 74,78,232,141,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002469.jpg 1,131,125,375,19 206,115,435,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004583.jpg 303,195,337,280,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006380.jpg 73,85,421,375,10 248,165,267,200,4 256,124,277,178,4 278,114,294,167,4 343,55,362,85,14 332,62,384,134,14 346,77,424,179,14 362,96,436,209,14 311,117,500,336,14 277,40,317,83,14 238,44,263,83,14 219,57,261,102,14 181,63,241,114,14 128,64,243,143,14 120,92,210,218,14 72,105,181,259,14 1,155,164,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004226.jpg 166,51,334,351,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004227.jpg 54,180,333,374,8 259,139,486,375,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004596.jpg 1,5,381,499,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008179.jpg 82,2,380,228,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009267.jpg 24,233,76,256,6 323,240,427,272,6 198,248,294,284,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008804.jpg 90,52,209,210,12 115,11,184,133,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006815.jpg 216,123,431,248,11 126,90,299,226,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005501.jpg 26,54,452,330,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009663.jpg 213,236,500,375,8 1,164,113,293,8 238,142,473,266,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003428.jpg 191,72,330,259,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004435.jpg 157,45,327,333,14 302,151,376,333,14 12,199,185,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001217.jpg 31,142,224,330,11 237,94,500,200,11 274,259,475,375,11 201,160,500,326,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009893.jpg 127,134,164,201,2 212,126,248,198,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008555.jpg 273,390,299,455,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003366.jpg 387,213,419,251,16 298,209,331,245,16 187,205,224,243,16 67,199,109,247,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005924.jpg 65,61,427,304,6 1,137,40,227,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002093.jpg 140,5,327,251,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009849.jpg 82,179,253,247,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000662.jpg 46,23,478,242,17 4,69,432,197,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001959.jpg 163,63,468,297,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004821.jpg 50,370,250,458,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007469.jpg 1,30,500,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003633.jpg 316,155,485,247,9 183,137,337,235,9 48,139,169,237,9 3,134,60,216,9 287,137,312,232,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008821.jpg 171,34,256,259,15 231,200,306,266,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001811.jpg 1,167,40,241,15 196,169,222,195,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004941.jpg 9,61,112,478,14 88,1,373,423,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005493.jpg 40,47,483,248,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009256.jpg 132,81,496,340,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005322.jpg 41,8,273,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007938.jpg 17,137,289,275,7 179,79,440,218,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006373.jpg 235,371,374,500,17 15,281,56,471,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004564.jpg 82,90,265,361,14 91,127,223,453,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004216.jpg 306,192,386,252,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002882.jpg 388,278,418,300,16 177,263,193,282,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009041.jpg 133,99,375,285,13 158,69,272,255,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008161.jpg 255,267,322,316,6 320,280,349,304,6 66,254,237,367,6 141,119,364,195,6 1,200,50,272,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006164.jpg 92,390,326,443,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002316.jpg 104,52,377,425,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003975.jpg 3,2,288,328,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007332.jpg 2,126,57,202,19 22,202,204,369,14 165,152,256,328,14 265,135,383,340,14 280,2,500,227,14 166,296,234,375,7 66,103,159,192,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004161.jpg 46,1,375,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001794.jpg 66,64,140,320,12 32,23,154,200,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009486.jpg 3,217,202,345,17 202,231,266,401,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009492.jpg 101,61,489,252,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008954.jpg 1,107,205,375,8 1,36,100,138,19 180,17,311,131,19 302,34,429,173,19 419,64,500,261,19 83,31,196,131,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006979.jpg 65,31,416,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003342.jpg 341,203,412,241,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000111.jpg 415,270,500,375,14 149,186,171,213,14 112,186,135,222,14 92,198,141,227,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006589.jpg 222,133,359,224,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005080.jpg 71,43,427,309,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005043.jpg 309,200,426,227,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007126.jpg 305,36,431,332,14 192,182,298,333,14 84,206,206,333,14 1,69,143,181,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007495.jpg 150,60,405,337,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004188.jpg 213,1,500,375,7 135,183,158,216,6 111,128,145,163,6 72,131,102,170,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002274.jpg 61,66,276,406,3 17,278,57,369,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001769.jpg 65,100,252,375,12 249,110,458,375,12 287,39,429,234,14 169,25,289,204,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008765.jpg 1,23,38,129,14 388,116,482,349,14 298,154,397,295,14 144,119,187,187,14 171,110,242,280,14 197,126,292,313,14 266,222,450,345,1 160,204,320,303,1 115,186,206,274,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003156.jpg 112,88,415,265,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001033.jpg 145,98,310,386,14 155,231,315,474,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003787.jpg 199,179,309,282,15 312,134,415,281,15 304,41,500,254,15 16,1,200,269,15 157,183,203,222,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004942.jpg 247,134,437,338,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003778.jpg 38,67,443,466,7 55,75,221,256,15 380,94,496,270,15 432,54,500,289,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004765.jpg 31,231,263,500,1 18,11,293,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006364.jpg 39,143,500,344,12 256,24,381,344,14 386,173,428,214,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007708.jpg 140,276,309,375,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008375.jpg 280,455,353,489,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002894.jpg 1,107,495,315,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002895.jpg 388,194,419,339,14 415,192,447,338,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004764.jpg 258,245,284,269,6 66,240,183,320,6 9,248,41,286,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006601.jpg 128,107,363,290,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008994.jpg 149,149,397,360,13 2,158,132,345,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002275.jpg 1,9,373,421,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003180.jpg 134,60,448,368,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007127.jpg 156,156,459,248,18 4,199,47,297,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001542.jpg 3,99,434,316,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009888.jpg 202,113,316,271,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001581.jpg 3,17,139,500,14 134,163,333,476,14 209,167,332,390,14 175,112,264,210,14 254,125,333,349,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000658.jpg 223,247,500,375,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000894.jpg 86,88,265,412,13 5,90,35,106,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005708.jpg 394,94,500,259,13 278,33,373,358,14 334,42,412,310,14 3,25,134,358,14 217,38,309,288,14 121,101,161,130,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004199.jpg 5,75,496,209,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007335.jpg 240,148,318,237,8 125,152,217,235,8 79,168,134,237,15 166,75,194,127,15 79,146,104,175,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001022.jpg 5,139,490,295,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008990.jpg 16,29,281,450,14 10,74,124,302,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006003.jpg 205,77,333,364,4 51,62,169,356,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004947.jpg 300,107,500,333,14 155,89,280,333,14 1,40,189,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008172.jpg 200,134,445,442,11 57,14,479,488,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000248.jpg 189,157,308,265,14 104,90,313,273,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006639.jpg 85,79,343,234,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004006.jpg 164,54,227,195,14 69,103,298,284,12 276,77,361,144,12 306,59,327,116,14 372,88,387,133,14 408,96,431,133,14 386,100,407,132,14 62,105,85,144,14 44,109,65,142,14 26,112,46,146,14 1,101,19,145,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002852.jpg 38,57,298,157,11 68,147,458,237,11 22,202,387,361,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009708.jpg 5,129,213,330,8 235,172,473,375,8 30,97,190,243,14 178,107,437,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007725.jpg 138,209,346,349,1 190,147,316,346,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007043.jpg 227,56,461,332,14 5,99,274,275,14 1,91,64,203,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006407.jpg 47,92,385,343,5 1,214,55,349,14 259,139,298,222,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002674.jpg 239,325,386,375,10 122,276,164,331,8 33,293,97,372,8 462,223,498,305,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006406.jpg 290,112,374,150,0 174,133,252,167,0 86,151,164,183,0 89,178,169,206,0 78,201,160,236,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005133.jpg 220,114,442,269,13 304,93,416,254,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007917.jpg 21,109,228,372,14 290,100,499,375,14 186,61,362,373,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001382.jpg 96,227,288,324,6 298,257,421,327,6 421,254,500,333,6 305,227,470,273,6 284,246,329,284,6 16,231,105,287,6 46,241,70,314,14 1,239,25,315,14 76,233,104,295,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002853.jpg 63,2,500,313,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008629.jpg 3,4,333,499,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005494.jpg 117,4,273,473,14 54,169,133,334,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007320.jpg 153,238,241,440,14 146,348,240,495,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008952.jpg 287,121,358,236,13 268,111,361,167,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008946.jpg 241,148,358,301,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006200.jpg 202,70,466,375,14 412,174,500,338,14 69,279,260,375,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006566.jpg 53,4,204,236,14 31,42,138,241,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000665.jpg 138,176,381,261,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006558.jpg 1,96,349,325,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005051.jpg 165,160,500,399,11 1,5,376,412,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009643.jpg 208,195,305,249,5 344,213,366,238,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008993.jpg 251,85,370,375,14 169,131,291,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008603.jpg 23,159,332,393,11 172,16,332,249,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006160.jpg 153,166,227,267,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009910.jpg 183,75,321,483,14 76,220,193,391,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005643.jpg 2,99,474,305,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001357.jpg 43,89,442,351,13 119,25,227,227,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004207.jpg 136,11,256,374,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002676.jpg 426,273,458,296,9 382,271,418,300,9 348,244,384,296,9 286,252,337,304,9 245,248,286,299,9 204,252,256,308,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007069.jpg 374,185,436,232,9 158,151,213,195,9 100,121,184,184,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007041.jpg 1,104,375,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008400.jpg 179,1,452,375,14 413,56,500,375,14 55,119,195,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005871.jpg 1,53,375,500,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002688.jpg 1,87,467,293,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007096.jpg 51,87,496,229,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006388.jpg 15,190,446,344,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008158.jpg 62,32,185,96,5 1,81,194,375,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007257.jpg 175,149,226,174,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002449.jpg 275,213,338,234,3 247,294,424,375,8 161,255,224,307,8 308,267,500,374,10 1,254,183,319,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006767.jpg 180,239,248,329,11 249,131,324,329,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000458.jpg 107,125,384,325,16 201,39,388,337,14 34,1,120,234,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001791.jpg 10,19,381,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005291.jpg 31,13,485,375,14 379,45,430,138,14 462,43,500,123,14 430,43,467,128,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001550.jpg 6,59,500,340,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003347.jpg 97,89,162,110,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005976.jpg 294,169,372,333,8 82,208,192,333,8 220,145,311,280,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003485.jpg 71,100,259,326,14 236,102,436,316,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002770.jpg 73,197,167,259,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009625.jpg 44,96,278,433,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006516.jpg 43,227,205,375,17 347,218,500,375,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003687.jpg 192,222,355,310,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004103.jpg 189,233,229,298,12 187,199,231,268,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001735.jpg 92,83,238,375,8 146,56,368,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003650.jpg 192,67,371,228,14 277,1,425,124,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009590.jpg 18,85,492,299,6 43,135,75,192,14 86,133,118,169,14 8,149,93,217,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006853.jpg 14,43,489,329,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008895.jpg 1,127,181,301,5 270,163,320,205,5 234,170,260,196,5 50,192,101,334,14 291,194,423,246,6 115,279,222,373,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009962.jpg 211,192,324,326,8 162,72,273,248,14 250,68,473,312,14 4,2,253,374,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007783.jpg 1,2,489,375,13 470,206,496,279,4 295,1,353,103,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003268.jpg 1,119,496,268,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009779.jpg 97,186,323,329,6 349,177,494,311,6 264,133,302,238,14 306,135,358,282,14 354,144,401,296,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004249.jpg 175,158,422,251,6 210,104,229,156,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000984.jpg 66,308,126,498,14 43,322,57,359,14 194,323,233,351,6 1,324,38,361,6 231,294,324,347,6 112,255,184,352,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006477.jpg 7,267,72,401,8 306,265,375,430,8 124,207,247,468,14 146,221,260,454,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001318.jpg 206,182,368,251,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009963.jpg 2,3,374,500,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007796.jpg 68,118,498,334,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006885.jpg 277,176,333,213,1 153,184,192,209,1 286,152,320,196,14 161,170,185,200,14 131,158,150,177,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003043.jpg 5,53,256,396,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008102.jpg 85,142,220,289,11 219,114,334,290,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005426.jpg 227,29,335,244,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007580.jpg 373,278,408,290,6 68,277,83,312,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004658.jpg 135,163,200,290,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007345.jpg 75,79,140,251,14 80,157,139,267,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002573.jpg 317,160,427,239,12 369,158,500,261,12 255,140,316,178,12 302,135,369,179,12 116,148,270,276,12 58,154,177,246,12 426,117,471,220,14 370,121,402,174,14 175,117,206,230,14 89,128,108,162,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009383.jpg 3,3,496,341,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001244.jpg 3,154,63,265,8 454,13,493,112,4 254,121,269,177,4 16,114,237,366,14 255,1,475,373,14 358,63,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006271.jpg 1,38,500,375,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002003.jpg 2,1,500,373,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009817.jpg 149,127,448,373,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001285.jpg 204,138,458,285,13 78,128,241,258,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005785.jpg 172,114,331,251,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000616.jpg 354,150,458,414,14 53,99,326,408,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008510.jpg 12,109,500,370,17 242,131,500,245,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009381.jpg 42,2,500,339,6 1,1,245,124,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008935.jpg 106,18,481,324,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001087.jpg 20,68,240,307,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000574.jpg 160,208,354,355,16 243,291,313,341,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000560.jpg 56,328,204,390,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004048.jpg 2,1,348,375,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002808.jpg 70,67,294,499,13 243,107,331,244,6 2,132,75,217,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007019.jpg 397,100,487,222,14 259,50,397,334,14 150,57,311,334,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004504.jpg 2,67,215,317,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000004.jpg 13,311,84,362,6 362,330,500,389,6 235,328,334,375,6 175,327,252,364,6 139,320,189,359,6 108,325,150,353,6 84,323,121,350,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002148.jpg 3,96,491,314,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007024.jpg 111,119,180,195,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005182.jpg 154,88,369,266,12 202,27,264,208,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009960.jpg 26,140,318,318,13 92,46,312,267,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005196.jpg 189,1,317,111,15 12,184,164,297,7 1,26,271,375,14 225,43,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003040.jpg 164,127,406,253,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007226.jpg 19,78,479,250,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003068.jpg 75,98,422,326,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002389.jpg 29,185,436,374,10 82,188,231,375,8 331,177,455,374,8 248,201,377,374,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004908.jpg 76,47,293,426,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007420.jpg 161,92,387,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000429.jpg 33,255,85,296,15 2,249,61,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009431.jpg 1,107,121,500,4 65,1,375,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000401.jpg 215,156,485,375,7 1,113,202,259,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004101.jpg 3,199,374,500,17 3,173,235,305,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006925.jpg 12,177,109,230,6 275,169,396,235,6 348,164,500,368,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007391.jpg 51,193,364,333,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009169.jpg 144,142,209,194,16 104,140,154,186,16 131,133,184,153,16 217,110,235,133,16 83,165,118,198,16 236,111,252,132,16 250,111,264,136,16 295,136,332,187,16 341,135,366,180,16 363,141,394,193,16 386,131,399,167,16 399,138,434,191,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008511.jpg 8,24,493,325,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006514.jpg 120,230,267,500,14 133,206,258,453,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000824.jpg 54,105,486,323,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009804.jpg 458,129,471,151,14 458,131,491,227,14 486,128,500,175,14 362,130,381,163,14 390,133,404,163,14 12,135,388,333,6 157,136,171,150,14 198,133,212,156,14 135,135,142,146,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002979.jpg 113,129,171,207,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004475.jpg 67,118,333,465,13 305,307,358,435,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000388.jpg 2,125,175,497,14 138,6,329,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009390.jpg 6,19,406,328,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003130.jpg 36,221,301,430,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007342.jpg 153,174,197,263,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002574.jpg 104,69,311,295,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008059.jpg 121,15,206,135,14 107,51,203,203,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004677.jpg 115,203,227,470,8 154,196,215,293,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001848.jpg 52,88,415,197,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005353.jpg 1,98,500,300,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008677.jpg 17,35,479,279,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006882.jpg 63,94,483,289,6 252,259,401,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005347.jpg 276,199,450,313,13 282,169,335,254,13 60,74,167,313,14 320,138,353,205,14 348,154,381,204,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002819.jpg 418,134,480,283,12 78,68,410,276,12 197,36,313,207,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007752.jpg 354,168,409,245,8 192,106,306,234,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002616.jpg 18,16,381,249,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001478.jpg 241,124,429,300,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000014.jpg 72,163,302,228,5 185,194,500,316,6 416,180,500,222,6 314,8,344,65,14 331,4,361,61,14 357,8,401,61,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009232.jpg 194,71,418,375,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001120.jpg 9,124,44,152,9 119,159,169,193,9 217,186,281,234,9 284,193,352,241,9 409,210,468,259,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007545.jpg 231,235,311,292,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008851.jpg 108,71,252,241,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002575.jpg 415,281,436,355,4 434,311,459,380,4 316,314,364,380,4 13,245,72,348,8 276,128,420,327,14 179,134,257,355,14 222,146,323,357,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006075.jpg 351,181,419,245,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005232.jpg 292,94,404,271,14 238,131,465,291,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008500.jpg 1,42,424,197,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001295.jpg 75,4,315,498,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005795.jpg 2,32,487,500,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000821.jpg 105,50,385,178,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002788.jpg 52,142,249,272,10 5,114,129,176,10 319,70,500,334,14 235,70,336,334,14 249,70,273,112,14 133,194,215,300,8 30,183,135,298,8 8,163,95,269,8 2,135,57,194,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002205.jpg 48,1,500,355,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003084.jpg 222,111,259,207,14 139,154,165,220,14 94,152,110,214,14 68,157,86,206,14 361,166,385,224,14 413,165,433,225,14 458,173,486,225,14 188,154,334,250,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007209.jpg 64,29,273,383,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002614.jpg 150,220,476,333,10 405,156,500,333,14 344,146,427,277,14 311,150,369,241,14 274,150,323,230,14 374,91,500,245,14 148,170,203,241,14 90,169,126,224,14 65,180,164,333,14 1,181,192,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005635.jpg 1,107,144,375,4 122,185,199,375,4 185,195,311,375,4 105,81,206,220,4 201,60,303,274,4 284,58,362,269,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005621.jpg 138,125,355,314,7 338,155,415,259,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007220.jpg 178,154,252,252,14 240,154,308,253,14 355,213,500,345,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008113.jpg 119,136,209,284,8 276,134,364,270,8 211,147,291,303,8 159,142,320,284,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007591.jpg 25,89,311,419,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001719.jpg 228,63,456,245,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004661.jpg 93,92,489,375,14 1,138,212,312,14 107,139,500,373,8 74,120,282,292,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004107.jpg 96,259,407,354,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000361.jpg 217,188,286,234,6 467,117,500,146,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000375.jpg 3,1,489,340,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008715.jpg 79,129,305,257,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005557.jpg 61,139,261,431,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002748.jpg 31,173,41,199,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007156.jpg 453,115,500,231,5 310,125,454,224,5 238,153,309,212,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005999.jpg 40,54,443,283,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008271.jpg 277,167,325,291,14 153,210,168,261,14 167,213,181,258,14 181,209,199,259,14 109,219,130,270,14 73,194,95,268,14 1,218,66,296,6 206,135,265,320,15 136,209,153,259,15 198,196,213,267,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001533.jpg 99,134,193,292,14 295,65,358,314,14 254,179,498,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004452.jpg 411,251,454,302,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005980.jpg 53,8,420,312,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004446.jpg 226,213,429,343,7 132,1,376,280,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000620.jpg 114,182,303,309,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000387.jpg 5,18,482,255,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004863.jpg 61,61,421,282,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005566.jpg 80,39,422,293,6 209,8,253,36,6 441,1,500,37,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000581.jpg 140,184,272,292,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003088.jpg 107,269,154,366,4 69,65,330,375,14 209,91,286,211,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000224.jpg 36,159,220,337,19 401,245,500,375,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005348.jpg 181,146,330,499,14 1,24,215,499,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007205.jpg 130,149,201,220,6 10,188,141,325,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009764.jpg 242,131,482,340,5 31,86,242,352,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006442.jpg 2,29,195,500,14 130,181,347,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003704.jpg 220,62,458,347,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009215.jpg 78,150,402,373,15 304,90,500,340,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003937.jpg 1,2,312,333,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008731.jpg 150,93,255,278,12 295,97,383,282,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000609.jpg 16,134,460,275,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000806.jpg 119,275,333,500,14 1,298,106,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005956.jpg 48,68,437,310,6 338,96,500,217,6 211,90,245,123,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006285.jpg 256,78,343,237,14 139,87,230,239,14 242,117,352,308,12 143,129,238,306,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008280.jpg 2,90,500,281,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000804.jpg 94,243,153,304,8 191,265,332,470,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009175.jpg 132,57,331,159,7 248,177,435,340,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002020.jpg 35,80,418,305,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009613.jpg 227,246,290,311,8 78,274,141,390,8 1,288,73,407,8 39,241,60,263,14 11,253,116,383,14 170,268,253,335,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001918.jpg 291,184,368,375,14 362,186,449,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006911.jpg 185,69,272,295,14 55,123,366,404,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004647.jpg 83,121,298,332,13 275,57,371,312,14 115,53,213,213,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004121.jpg 19,154,108,263,15 220,92,347,242,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009411.jpg 62,112,463,335,6 424,150,456,191,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004653.jpg 51,109,276,448,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009377.jpg 19,97,62,200,14 57,19,417,336,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008647.jpg 1,2,465,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006483.jpg 100,32,379,377,14 307,146,348,221,4 316,191,338,254,4 281,151,305,217,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008492.jpg 153,69,496,243,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009767.jpg 103,114,260,500,12 90,51,219,361,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001475.jpg 49,154,500,362,13 235,79,438,354,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000019.jpg 231,88,483,256,7 11,113,266,259,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002800.jpg 176,139,294,353,12 176,74,345,356,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006482.jpg 30,31,406,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002419.jpg 113,106,379,262,13 160,56,277,215,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006864.jpg 336,1,500,325,14 237,6,380,283,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002579.jpg 80,74,357,475,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000352.jpg 33,68,149,247,14 131,68,210,249,14 198,59,309,284,14 294,83,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000805.jpg 29,65,356,411,11 308,85,375,214,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007824.jpg 148,162,440,333,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005979.jpg 26,9,487,331,6 393,1,438,116,14 337,1,376,97,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009831.jpg 194,48,500,319,18 60,84,311,289,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005762.jpg 325,390,375,485,15 228,426,301,500,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004468.jpg 6,5,157,498,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000154.jpg 59,76,367,266,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003924.jpg 64,318,100,396,15 109,320,148,383,15 120,337,152,400,15 159,323,195,358,15 160,350,194,406,15 198,248,233,400,15 55,113,103,199,15 106,104,144,192,15 143,116,188,198,15 188,147,207,194,15 201,125,242,200,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003717.jpg 114,172,358,311,1 353,88,500,203,1 97,32,244,170,1 297,12,489,173,1 238,2,286,93,14 107,1,196,163,14 169,91,320,247,14 27,119,118,319,14 10,270,93,326,14 192,267,254,312,14 29,81,116,297,14 354,2,472,226,14 355,1,409,175,14 1,1,88,162,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007571.jpg 136,100,252,277,14 255,83,365,263,14 132,188,268,319,1 266,181,355,308,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007559.jpg 57,78,195,461,14 301,121,375,213,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002804.jpg 471,149,500,176,6 330,131,449,174,6 51,131,121,154,6 1,135,46,156,6 454,138,472,179,14 1,156,19,233,14 219,156,264,311,14 362,162,388,258,14 304,151,339,203,14 304,170,358,246,12 189,196,233,291,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006486.jpg 65,259,98,346,4 1,160,160,352,14 75,113,170,257,14 210,85,313,238,14 324,135,429,312,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007940.jpg 90,16,383,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002179.jpg 6,8,487,373,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008326.jpg 19,102,479,231,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000753.jpg 164,188,429,375,10 211,114,241,196,4 265,229,288,296,4 264,198,284,248,4 263,99,352,227,14 334,105,430,254,14 351,99,500,373,14 128,101,192,214,14 55,108,189,373,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004253.jpg 141,192,252,337,8 181,163,267,291,8 274,182,352,308,8 167,179,348,332,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007772.jpg 149,87,321,270,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005171.jpg 189,227,276,269,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005824.jpg 171,95,231,237,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004723.jpg 359,128,460,375,14 16,136,65,284,14 1,131,56,304,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008125.jpg 2,1,335,450,5 142,146,232,241,14 44,153,136,241,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001673.jpg 36,110,440,319,7 418,1,482,131,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003138.jpg 205,76,445,375,14 1,119,144,374,14 387,122,454,220,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002226.jpg 330,11,348,64,4 316,15,332,56,4 263,24,275,69,4 249,25,265,70,4 480,188,500,231,4 467,186,485,253,4 448,184,468,253,4 428,186,447,252,4 415,181,432,242,4 98,46,500,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009429.jpg 205,197,316,240,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008723.jpg 5,66,468,252,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004694.jpg 49,71,203,255,14 95,185,202,466,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007148.jpg 36,22,415,333,14 319,49,500,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000141.jpg 25,53,418,399,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001277.jpg 2,31,500,289,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008253.jpg 89,132,427,325,14 350,4,500,200,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007821.jpg 23,58,313,312,6 130,79,278,484,14 21,46,165,428,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007809.jpg 87,25,500,373,12 370,3,500,323,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000816.jpg 122,225,407,467,1 153,122,309,474,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002967.jpg 167,1,255,255,15 7,153,153,266,15 142,333,237,436,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008251.jpg 114,174,334,209,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005761.jpg 21,54,381,361,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009615.jpg 17,89,490,235,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000143.jpg 170,46,500,333,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004872.jpg 252,131,291,263,12 237,94,311,212,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008084.jpg 111,212,233,365,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004866.jpg 111,97,237,192,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001077.jpg 28,101,214,296,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006042.jpg 205,102,318,213,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002378.jpg 184,10,384,305,14 1,2,196,296,15 117,37,170,164,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006136.jpg 54,183,166,262,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000235.jpg 243,255,316,375,8 40,266,277,375,10 415,192,457,254,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008494.jpg 210,143,296,230,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001315.jpg 42,51,237,334,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008318.jpg 302,252,337,296,15 334,150,411,375,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002635.jpg 137,109,419,281,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001472.jpg 75,102,408,349,6 267,89,500,248,6 58,73,105,118,6 122,76,179,107,6 190,75,253,107,6 249,78,312,103,6 43,58,75,128,14 458,65,474,99,14 439,61,458,99,14 284,56,304,102,14 106,61,125,110,14 172,60,185,101,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003729.jpg 199,1,266,128,4 405,1,500,227,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000220.jpg 40,127,464,292,6 427,114,500,167,6 265,147,312,187,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003932.jpg 207,345,247,493,4 62,20,283,493,14 243,273,372,412,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004898.jpg 146,17,252,303,14 93,159,160,291,14 273,173,307,213,15 383,197,429,262,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008091.jpg 2,3,322,319,3 111,209,175,288,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006241.jpg 387,164,489,372,8 183,103,210,183,4 49,135,440,375,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007639.jpg 3,204,372,500,17 117,290,246,422,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001260.jpg 167,85,245,140,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008250.jpg 246,157,343,305,13 119,188,261,308,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001274.jpg 138,196,230,344,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007605.jpg 197,30,316,322,14 30,30,137,323,14 111,43,200,322,14 139,51,189,178,14 315,153,361,235,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004481.jpg 42,167,465,376,6 150,81,250,243,14 268,115,358,239,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000694.jpg 282,151,379,375,14 200,132,284,374,14 376,160,460,375,14 369,130,412,218,14 83,167,191,297,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009897.jpg 236,68,467,317,9 125,146,267,294,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006187.jpg 61,33,375,500,14 1,43,218,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006839.jpg 29,13,459,351,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001818.jpg 113,3,500,332,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007528.jpg 174,163,278,266,9 233,181,337,249,9 310,189,423,248,9 242,234,449,375,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007266.jpg 1,102,172,346,8 326,86,479,322,14 111,89,326,319,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004237.jpg 227,159,500,375,19 1,3,169,375,19 132,138,266,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000051.jpg 352,138,500,375,13 105,1,427,245,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006346.jpg 364,161,500,282,5 19,165,327,275,5 1,264,216,374,6 419,221,490,374,14 255,221,341,374,14 329,209,351,285,14 304,210,333,285,14 128,230,181,321,14 110,221,143,273,14 65,222,106,271,14 1,230,209,298,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002108.jpg 29,115,155,260,14 141,114,245,243,14 279,129,351,222,14 337,131,409,216,14 1,200,500,375,10 262,262,306,305,15 319,261,357,307,15 343,248,377,291,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002109.jpg 137,72,290,182,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009935.jpg 274,155,436,372,14 104,124,179,206,14 1,134,73,264,14 419,154,465,266,19 364,135,409,216,19 104,121,156,165,19 24,125,75,179,19 33,222,158,375,8 109,167,174,298,8 266,235,373,375,8 1,183,75,312,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000508.jpg 435,18,500,169,2 247,139,412,375,2 164,47,326,231,2 19,100,156,327,2 155,127,288,329,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001170.jpg 102,114,341,375,14 318,140,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003767.jpg 272,170,373,301,8 278,201,456,375,8 74,165,164,282,8 47,199,213,375,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004020.jpg 265,51,371,188,14 204,61,230,114,14 2,102,118,233,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001004.jpg 143,152,235,197,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003149.jpg 72,36,153,288,4 178,16,308,74,4 144,46,296,225,4 245,49,387,148,4 131,31,464,331,4 140,224,395,375,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004801.jpg 258,127,412,333,14 1,14,482,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008961.jpg 259,179,479,407,8 247,89,472,407,14 1,78,269,407,14 31,59,73,108,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009128.jpg 3,12,304,420,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008550.jpg 55,107,377,324,6 371,40,459,119,6 440,31,475,190,14 261,21,336,125,14 139,33,201,115,14 224,18,263,112,14 118,29,151,121,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009114.jpg 66,26,242,191,12 131,11,174,110,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009855.jpg 107,32,500,280,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007688.jpg 4,37,500,373,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002043.jpg 38,12,364,497,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000654.jpg 36,135,168,227,16 55,152,215,249,16 411,51,463,146,14 368,49,424,146,14 323,81,369,133,14 114,61,171,139,14 86,60,129,139,14 295,178,382,243,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003639.jpg 227,5,500,319,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007477.jpg 259,30,421,154,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008036.jpg 186,68,422,330,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005274.jpg 282,103,435,358,11 170,229,277,341,11 102,62,422,344,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006184.jpg 54,94,449,322,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005499.jpg 2,48,500,333,6 277,5,414,180,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008618.jpg 282,116,393,241,16 198,113,334,254,16 143,125,292,261,16 94,139,297,328,16 42,148,233,331,16 1,1,164,330,14 284,17,373,149,14 391,21,455,215,14 148,7,214,161,14 89,16,149,158,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001172.jpg 19,20,486,162,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008397.jpg 199,354,294,375,6 19,322,36,358,14 42,324,54,358,14 58,290,294,375,5 6,303,68,329,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002645.jpg 1,186,47,250,19 194,175,239,244,8 234,176,281,258,8 249,168,383,332,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000052.jpg 414,232,458,263,15 291,237,333,270,15 183,238,227,273,15 52,244,99,274,15 62,96,107,132,15 184,94,225,128,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006437.jpg 164,147,281,180,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009738.jpg 187,255,311,474,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001365.jpg 322,139,416,189,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005895.jpg 274,204,316,235,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007933.jpg 8,42,492,351,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003002.jpg 1,89,119,389,15 121,104,317,418,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004976.jpg 311,108,476,221,14 224,98,350,226,14 177,132,247,263,14 43,139,196,332,14 128,193,500,338,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006185.jpg 128,222,266,307,8 13,155,153,285,14 203,70,321,258,14 257,107,456,325,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001985.jpg 81,92,238,486,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004625.jpg 82,89,433,375,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006218.jpg 134,59,383,207,5 438,145,490,183,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000682.jpg 275,154,461,275,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007853.jpg 86,177,350,452,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005715.jpg 39,8,474,375,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001215.jpg 31,71,473,317,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000123.jpg 1,26,358,340,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006963.jpg 240,225,427,300,7 73,84,197,225,14 323,1,500,330,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008999.jpg 53,78,86,170,3 160,65,191,171,3 222,125,238,162,3 248,43,284,175,3 415,82,444,167,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007300.jpg 230,122,388,307,2 26,154,97,206,2 187,167,220,211,2 447,24,485,61,2 450,45,500,87,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002244.jpg 317,215,465,292,6 107,227,145,259,6 144,233,201,266,6 214,220,236,269,14 468,224,484,269,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004796.jpg 316,111,491,375,13 57,117,267,270,13 89,85,153,280,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002481.jpg 15,19,316,426,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008806.jpg 418,173,442,245,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003774.jpg 1,88,428,225,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006156.jpg 2,2,451,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002132.jpg 184,155,306,249,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003211.jpg 306,122,427,366,15 334,173,374,298,15 206,195,246,287,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002682.jpg 168,151,330,279,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002866.jpg 97,274,231,375,8 224,255,338,375,8 277,236,371,375,8 122,225,347,375,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004754.jpg 1,270,133,500,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001176.jpg 272,82,451,340,3 196,298,252,314,3 139,252,175,315,3 33,213,81,317,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005489.jpg 252,166,329,203,6 409,71,464,94,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000446.jpg 130,167,230,476,14 81,86,244,472,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000320.jpg 272,10,304,26,6 228,1,273,29,6 1,78,372,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002279.jpg 26,12,443,318,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006547.jpg 23,97,273,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002735.jpg 54,168,334,433,12 135,82,256,270,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001214.jpg 43,187,141,354,8 1,227,46,375,8 203,144,244,203,19 122,150,205,209,19 240,165,500,375,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007856.jpg 151,118,394,230,6 91,101,121,156,14 70,104,101,157,14 32,90,52,116,14 15,92,35,115,14 12,103,43,160,14 34,105,54,158,14 47,103,80,157,14 26,66,40,85,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002910.jpg 264,123,426,314,8 89,123,232,285,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002938.jpg 46,139,259,260,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005702.jpg 38,227,292,500,1 76,63,327,465,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002284.jpg 120,19,216,116,15 176,48,234,125,15 169,121,240,243,15 110,278,250,493,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001799.jpg 40,69,261,354,14 15,13,90,266,14 412,89,500,355,14 13,287,143,391,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004622.jpg 39,61,375,500,14 45,100,365,500,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002496.jpg 61,70,500,348,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009528.jpg 86,67,489,322,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008150.jpg 331,178,358,197,16 297,180,316,195,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003005.jpg 5,149,246,367,17 229,82,298,143,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005104.jpg 1,63,69,208,19 305,84,500,333,17 355,199,450,297,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004540.jpg 8,141,333,316,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009064.jpg 30,71,450,343,6 454,107,500,205,6 1,41,155,202,6 174,62,222,108,14 228,68,268,110,14 28,36,105,183,14 348,59,422,165,14 425,83,452,165,14 448,87,472,172,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006425.jpg 74,37,300,490,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009059.jpg 97,85,314,187,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007074.jpg 33,89,479,305,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005850.jpg 54,117,348,322,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006140.jpg 181,189,495,333,10 275,149,338,220,14 344,153,408,241,14 387,147,500,291,14 5,3,205,333,14 178,95,241,190,14 72,54,183,204,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009273.jpg 32,50,252,375,14 75,108,479,375,14 28,244,84,336,14 387,273,500,362,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001175.jpg 119,153,367,329,14 360,114,449,187,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001607.jpg 21,1,500,374,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004794.jpg 190,140,405,243,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007289.jpg 1,75,159,144,3 28,96,435,295,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002534.jpg 347,156,386,185,6 226,157,281,197,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009307.jpg 7,13,400,367,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001015.jpg 96,133,110,163,2 392,188,418,209,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001954.jpg 18,54,166,194,6 1,37,82,372,6 118,119,337,251,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004192.jpg 138,220,233,300,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008970.jpg 252,81,371,242,15 65,77,190,204,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005065.jpg 1,57,479,298,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007855.jpg 7,145,449,295,5 447,216,475,232,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008582.jpg 15,3,476,344,14 97,115,443,344,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000689.jpg 2,39,498,347,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004376.jpg 111,16,500,374,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000460.jpg 259,67,471,372,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001018.jpg 235,209,500,361,17 344,280,430,375,8 136,279,243,373,8 1,266,97,375,8 101,236,186,368,8 198,212,244,268,8 135,209,188,264,8 1,209,139,334,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009281.jpg 29,3,425,375,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003960.jpg 38,196,266,369,12 195,222,353,372,12 143,157,204,248,14 213,166,280,300,14 117,250,205,375,14 432,259,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005108.jpg 171,113,231,173,0 110,226,162,248,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006429.jpg 1,2,328,500,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003223.jpg 136,230,230,299,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001390.jpg 196,55,228,184,14 70,55,114,230,14 235,62,281,187,14 269,57,319,202,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007905.jpg 15,87,496,330,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005860.jpg 144,192,353,250,3 375,202,478,239,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007911.jpg 21,38,461,488,13 144,28,163,78,14 236,26,259,83,14 204,23,220,83,14 43,39,61,83,14 299,24,316,76,14 324,25,337,74,14 364,25,384,81,14 377,21,392,75,14 396,26,417,84,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002458.jpg 22,150,102,203,13 39,131,69,185,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000501.jpg 22,22,349,492,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003949.jpg 210,151,245,193,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008773.jpg 114,129,499,306,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004607.jpg 93,107,389,232,17 348,117,497,303,8 1,128,132,295,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004808.jpg 114,162,423,273,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008203.jpg 331,148,426,247,17 38,188,304,360,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000663.jpg 12,2,417,467,5 7,39,63,94,6 376,36,422,81,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009679.jpg 85,8,156,101,4 162,15,202,107,4 202,46,228,101,4 236,15,285,100,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004349.jpg 88,50,156,88,2 149,90,217,129,2 150,57,220,100,2 151,323,228,363,2 262,300,371,348,2 372,285,454,323,2 443,175,500,221,2 266,174,362,217,2 345,121,419,162,2 358,5,434,42,2 260,6,323,45,2 75,289,181,342,2 199,285,258,331,2 323,275,409,314,2 329,200,400,232,2 158,246,274,304,2 104,209,181,257,2 81,142,149,204,2 150,128,219,183,2 370,91,453,138,2 287,70,352,122,2 183,38,234,74,2 202,202,298,253,2 448,20,488,70,2 387,41,460,91,2 354,53,405,108,2 226,110,298,166,2 305,105,356,152,2 344,159,411,201,2 426,3,474,31,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008942.jpg 20,179,176,295,16 189,190,286,283,16 301,199,419,276,16 351,186,390,210,16 391,183,426,207,16 299,191,355,223,16 146,182,192,206,16 61,181,189,284,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003803.jpg 156,186,249,341,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000463.jpg 196,77,301,165,13 221,47,283,161,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003142.jpg 52,39,402,344,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009527.jpg 74,13,286,255,3 249,149,321,212,3 88,201,500,375,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008163.jpg 2,65,150,99,3 121,53,200,79,3 209,75,354,129,3 307,62,419,106,3 40,182,381,265,3 81,146,176,224,14 41,160,81,221,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009094.jpg 235,81,394,227,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007709.jpg 235,56,265,118,14 245,81,290,107,1 56,116,470,276,6 309,89,500,188,6 202,59,293,98,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000700.jpg 12,224,56,252,6 1,217,16,264,6 402,227,426,239,6 430,225,463,239,6 141,238,223,276,6 125,246,477,333,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001387.jpg 38,43,375,466,7 213,138,375,465,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000099.jpg 4,77,320,252,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005687.jpg 58,220,266,333,15 284,239,367,333,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002842.jpg 167,98,425,296,12 242,53,306,211,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005877.jpg 106,40,219,333,12 292,38,484,333,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007245.jpg 164,118,500,317,11 3,26,447,353,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003779.jpg 56,105,400,383,12 182,69,322,260,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005485.jpg 451,149,476,172,2 203,175,242,205,2 156,196,192,220,2 33,183,55,210,2 118,184,148,205,2 133,160,166,177,2 161,216,202,325,14 213,235,261,322,14 237,220,263,258,14 248,241,298,322,14 245,252,273,287,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009283.jpg 255,220,354,317,5 203,248,253,298,6 1,245,107,370,6 463,269,493,365,14 344,261,363,319,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008002.jpg 75,7,259,333,14 289,64,412,333,14 249,77,310,206,14 210,176,305,282,14 1,61,71,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004837.jpg 273,138,500,320,17 67,166,253,357,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007655.jpg 4,18,500,354,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009650.jpg 21,36,346,418,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003369.jpg 259,212,284,310,14 225,215,252,310,14 1,1,447,299,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009693.jpg 99,15,309,357,14 297,258,407,355,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007123.jpg 86,121,281,277,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001234.jpg 70,14,182,443,14 33,167,190,500,14 1,425,62,475,11 3,280,71,384,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007679.jpg 26,236,232,325,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006981.jpg 183,94,253,273,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004628.jpg 235,1,443,279,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009721.jpg 91,174,278,424,8 25,150,245,474,14 1,72,113,399,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005669.jpg 254,151,341,202,6 409,135,500,199,5 160,87,194,220,14 1,1,154,332,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002310.jpg 154,30,484,333,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002462.jpg 54,75,500,158,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003783.jpg 160,322,206,421,4 71,284,133,392,4 91,256,141,357,4 138,276,178,383,4 177,254,222,373,4 184,172,239,312,4 269,157,314,259,4 232,141,271,270,4 206,180,239,277,4 128,232,174,309,4 100,203,137,281,4 109,159,149,237,4 126,147,155,205,4 148,125,178,190,4 143,205,187,305,4 213,143,238,216,4 219,107,243,174,4 227,86,255,147,4 254,121,283,189,4 294,142,321,234,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001221.jpg 104,101,264,385,18 167,249,197,284,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003436.jpg 74,138,135,271,12 151,101,291,358,12 278,92,439,361,12 443,180,477,236,15 122,92,150,135,14 196,58,244,116,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005086.jpg 158,184,257,262,8 39,145,144,375,14 269,42,498,372,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009858.jpg 93,177,283,226,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005723.jpg 412,242,480,390,8 238,250,377,391,8 43,241,213,391,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001747.jpg 92,4,383,375,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002266.jpg 231,251,458,346,0 5,118,499,258,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009333.jpg 100,86,312,238,19 207,202,352,268,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003781.jpg 32,98,334,375,14 259,60,500,375,14 36,252,82,296,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006821.jpg 176,140,282,246,5 373,194,500,301,6 319,193,367,224,6 15,177,54,290,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007530.jpg 39,65,163,203,19 183,61,326,167,7 1,313,136,500,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008617.jpg 45,52,320,375,14 258,89,486,374,14 429,33,500,169,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004011.jpg 87,97,415,267,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009086.jpg 31,34,500,281,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002879.jpg 7,65,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000061.jpg 274,11,437,279,3 184,214,281,252,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007068.jpg 3,157,357,342,6 2,110,357,186,6 34,74,357,133,6 63,46,338,118,6 94,24,321,75,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006362.jpg 40,28,406,332,6 1,114,146,277,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004212.jpg 88,176,250,312,7 454,115,500,291,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005130.jpg 115,131,324,433,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009911.jpg 75,137,417,265,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005859.jpg 2,3,298,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001168.jpg 1,1,403,375,14 279,73,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007519.jpg 238,164,309,187,15 99,161,192,185,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001801.jpg 310,194,404,291,13 176,175,291,324,13 118,174,160,235,13 323,156,389,235,14 194,143,257,280,14 125,151,157,214,14 1,163,60,219,6 319,174,435,229,6 1,206,43,365,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003970.jpg 96,115,230,437,12 93,88,254,293,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004951.jpg 51,142,500,262,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007294.jpg 270,172,361,252,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002273.jpg 116,51,190,181,12 121,14,186,118,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005508.jpg 89,131,275,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002501.jpg 6,124,262,375,8 212,135,500,358,17 81,117,205,373,14 245,125,498,372,14 295,92,496,262,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007479.jpg 5,24,500,261,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009454.jpg 181,234,344,375,8 301,151,376,232,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001752.jpg 3,4,375,500,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000896.jpg 2,189,256,294,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000832.jpg 89,38,337,500,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002957.jpg 1,36,437,375,8 158,157,348,240,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001537.jpg 414,87,500,243,14 104,16,367,332,14 385,212,408,278,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007152.jpg 28,44,91,113,0 47,151,111,212,0 65,239,127,299,0 189,143,255,205,0 164,29,228,96,0 397,15,462,83,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005023.jpg 207,266,259,339,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005590.jpg 21,75,309,316,7 234,59,333,252,7 314,47,500,316,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006066.jpg 47,266,204,332,8 150,120,339,264,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009433.jpg 79,147,387,286,18 475,189,495,245,14 446,173,467,228,14 386,192,402,236,14 363,192,381,243,14 195,178,210,221,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006714.jpg 3,79,373,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002572.jpg 135,98,173,195,4 118,142,136,195,4 370,156,500,327,8 339,125,429,273,8 121,30,150,107,14 148,22,182,106,14 201,18,245,86,14 243,23,288,87,14 282,89,401,288,14 242,85,309,175,14 33,73,210,333,14 220,82,263,177,14 197,77,239,175,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007422.jpg 116,135,398,284,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000577.jpg 1,1,479,333,12
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002348.jpg 186,135,299,253,0 61,114,179,230,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006304.jpg 321,197,357,252,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006338.jpg 1,1,391,273,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000748.jpg 47,100,440,246,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008472.jpg 12,22,489,448,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001324.jpg 57,44,156,333,11 206,35,403,315,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000774.jpg 85,36,447,225,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002605.jpg 249,209,305,244,3
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006661.jpg 75,147,134,220,1 191,147,213,188,1 77,96,132,210,14 144,111,175,188,14 182,123,215,186,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006107.jpg 53,116,500,327,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009546.jpg 1,215,370,492,17 158,196,363,450,14 32,173,85,218,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000589.jpg 73,1,315,375,14 54,127,97,268,14 1,118,33,300,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007437.jpg 98,105,295,249,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003651.jpg 80,6,480,360,18 340,83,385,179,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008076.jpg 305,258,500,373,10 262,256,376,375,8 157,184,194,248,8 224,163,292,230,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009432.jpg 5,90,497,260,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008923.jpg 15,31,366,176,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001522.jpg 309,46,377,241,4 217,100,272,247,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003453.jpg 107,107,421,282,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006503.jpg 435,84,461,159,4 394,80,416,137,4 307,109,474,327,14 219,86,350,270,14 1,60,100,247,14 3,201,479,375,10
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008248.jpg 245,128,349,375,12 327,57,477,375,14 292,44,346,138,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002015.jpg 8,89,124,310,15 60,25,252,292,15 137,92,281,352,15 311,3,500,331,15 247,3,395,294,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002767.jpg 246,189,302,259,19 75,167,113,221,19 114,171,249,375,14 19,172,111,274,14 11,206,84,333,8 92,245,198,375,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003874.jpg 20,308,63,331,16 462,241,476,262,16 411,207,428,220,16 298,200,317,219,16 129,287,146,301,16 100,294,148,324,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006918.jpg 149,112,418,300,6 1,147,172,230,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003690.jpg 1,57,453,375,17 31,77,500,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003684.jpg 60,5,360,473,13
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002571.jpg 1,5,316,333,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006065.jpg 4,29,500,287,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006844.jpg 87,105,492,237,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005430.jpg 110,127,295,266,1 213,30,356,284,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003727.jpg 121,148,291,429,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000951.jpg 226,73,245,127,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001483.jpg 171,72,388,303,18 74,151,153,250,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003519.jpg 114,84,316,375,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002613.jpg 277,238,316,347,4 305,227,350,375,4 347,238,391,375,4 388,226,422,365,4 420,227,458,359,4 40,20,262,298,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001326.jpg 27,1,500,375,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008465.jpg 19,27,499,498,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006448.jpg 344,69,392,250,4 395,109,427,235,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008317.jpg 74,44,392,375,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002174.jpg 19,60,496,302,6 451,89,500,186,6 377,90,390,121,14 397,93,419,141,14 431,115,453,152,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002606.jpg 351,196,432,228,6 252,194,369,238,6 193,196,252,241,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003518.jpg 1,31,141,333,8 66,63,366,333,14 1,1,106,288,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009035.jpg 1,1,333,482,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006306.jpg 1,71,348,213,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007795.jpg 7,108,153,374,14 107,118,207,305,14 295,151,359,269,14 334,152,408,279,14 404,154,485,322,14 258,242,304,310,15 229,167,284,234,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005343.jpg 110,142,387,375,14 122,142,429,374,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001125.jpg 266,174,434,272,6 210,171,312,227,6 1,176,223,333,6 164,149,199,220,14 302,152,342,312,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008667.jpg 15,22,433,328,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006886.jpg 19,42,214,206,8 218,38,496,215,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009545.jpg 175,29,500,333,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007568.jpg 35,1,466,374,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002410.jpg 88,28,356,318,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002376.jpg 1,32,458,224,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004707.jpg 236,354,330,468,15 58,316,77,355,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003083.jpg 344,455,375,480,6 270,426,375,480,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008698.jpg 2,29,287,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009419.jpg 52,68,134,195,15 145,207,181,277,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004868.jpg 99,97,251,297,14 217,69,392,282,14 1,260,500,375,10 284,72,392,164,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003444.jpg 36,91,304,263,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002000.jpg 371,215,411,267,3 33,195,131,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005948.jpg 166,198,229,230,11 260,134,325,261,12 329,133,424,257,12 366,100,403,203,14 274,108,310,214,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005784.jpg 130,114,417,243,8 6,22,410,278,14 7,106,494,438,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009828.jpg 35,214,86,285,8 18,239,88,312,8 2,259,89,342,8 1,304,91,413,8 79,5,286,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000818.jpg 295,121,500,204,18 1,181,33,204,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000820.jpg 180,140,368,307,16 348,43,412,71,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005794.jpg 1,186,145,357,17 83,167,281,330,8 263,152,344,208,10 321,146,358,215,8 278,149,323,222,8 25,46,125,128,15 412,55,500,148,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009192.jpg 76,29,415,336,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009179.jpg 243,307,328,356,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002776.jpg 429,175,500,204,5 320,258,337,281,14 239,218,302,250,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003468.jpg 353,202,388,331,14 346,258,384,352,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002762.jpg 268,87,304,183,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002004.jpg 37,111,190,275,19 204,157,322,301,19 5,279,103,419,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004878.jpg 36,129,432,375,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008930.jpg 2,59,375,500,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003642.jpg 26,58,461,226,5
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003118.jpg 207,21,286,108,2 361,153,461,220,2 298,174,373,248,2 125,73,391,333,14 362,206,472,333,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008688.jpg 2,1,500,325,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007222.jpg 346,99,490,230,18 218,98,355,226,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000559.jpg 36,250,79,354,4 160,26,371,241,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008313.jpg 369,208,446,308,1 252,220,368,347,1 1,236,165,374,1 55,174,134,375,14 325,169,387,344,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006458.jpg 196,62,493,271,6 26,110,235,265,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007746.jpg 242,58,500,375,14 55,27,330,375,14 125,246,144,272,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002171.jpg 41,174,191,329,14 35,247,170,401,1
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004272.jpg 163,146,367,394,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005144.jpg 1,12,331,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000564.jpg 86,150,500,333,10 43,106,58,147,4 6,103,19,142,4 366,149,479,333,8 231,163,392,333,8 1,165,162,333,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002401.jpg 13,85,301,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005346.jpg 421,43,500,237,15 95,77,394,330,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006883.jpg 93,131,252,250,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008676.jpg 415,199,478,279,13 245,256,345,334,13 182,217,232,308,13 53,223,106,292,13 125,153,249,238,6 411,140,481,251,14 252,143,343,327,14 167,141,246,276,14 44,151,109,276,14 29,156,48,200,14 14,154,34,198,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001861.jpg 8,190,457,363,1 66,9,484,363,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001875.jpg 36,138,143,234,19
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/006061.jpg 213,7,500,200,7 207,185,280,374,7 170,1,210,61,4 106,1,157,56,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004886.jpg 12,27,218,375,14 217,63,500,375,14 366,22,500,375,14 164,300,181,360,4
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009150.jpg 78,365,140,433,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009178.jpg 2,83,500,324,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002978.jpg 435,113,465,153,9 262,112,422,262,9 2,129,232,322,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009193.jpg 8,221,494,375,17 24,167,242,344,14 82,248,272,374,14 298,51,500,358,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008299.jpg 113,89,304,401,9
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007631.jpg 286,1,363,114,14 373,1,435,113,14 327,78,341,116,4 157,75,171,118,4 120,76,136,120,4 40,1,100,116,14 436,117,500,230,8 344,117,425,229,8 65,120,142,224,8 1,121,64,224,8 96,64,327,340,14 257,101,457,375,14 443,255,500,375,14 209,253,317,375,14 92,269,179,375,14 1,262,93,375,14 115,50,237,117,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009634.jpg 268,126,359,372,15 396,201,454,344,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009378.jpg 8,19,313,394,7
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008106.jpg 168,189,266,355,8 280,222,367,385,8 288,232,306,259,15
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001650.jpg 109,146,161,192,19 380,204,500,333,17 309,171,450,272,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001334.jpg 16,70,489,288,6 4,97,68,119,6
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002615.jpg 177,107,200,132,16 343,263,383,288,16
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002166.jpg 14,74,481,317,18
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004265.jpg 253,139,402,276,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/001453.jpg 176,29,297,306,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/007022.jpg 146,101,266,179,2
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002199.jpg 69,163,477,372,11
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/004715.jpg 202,127,331,374,14 159,103,305,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/003708.jpg 1,89,351,500,14 239,153,365,468,8
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/008107.jpg 10,57,494,232,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009351.jpg 123,2,500,375,0
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/005231.jpg 215,109,386,272,11 42,22,315,370,14 337,2,500,372,14 1,40,498,374,17
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002012.jpg 135,128,167,255,14 156,118,195,245,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/009153.jpg 3,107,375,500,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/000177.jpg 59,152,461,375,10 344,150,500,375,14 321,85,456,362,14 304,92,391,209,14 280,88,337,172,14 163,67,261,163,14 125,94,164,166,14 75,87,158,231,14 1,112,97,375,14
+/root/lanyun-tmp/efficientdet-pytorch-master/VOCdevkit/VOC2007/JPEGImages/002947.jpg 6,291,375,500,17 42,290,128,369,8
